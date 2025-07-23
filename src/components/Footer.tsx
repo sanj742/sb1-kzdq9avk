@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4 text-primary-400" />
-                <span className="text-gray-300 text-sm">+91 1800-123-4567</span>
+                <span className="text-gray-300 text-sm">+91 735-223-9445</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-primary-400" />
@@ -90,8 +90,8 @@ const Footer: React.FC = () => {
               <div className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 text-primary-400 mt-0.5" />
                 <span className="text-gray-300 text-sm">
-                  123 Agricultural Hub,<br />
-                  New Delhi, India 110001
+                  CEC Landran,<br />
+                  Chandigarh, India 140307
                 </span>
               </div>
             </div>
