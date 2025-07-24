@@ -30,11 +30,11 @@ interface AppProviderProps {
 export const AppProvider: React.FC<AppProviderProps> = ({ children }) => {
   const [currentUser, setCurrentUser] = useState<User | null>({
     id: '1',
-    name: 'John Doe',
-    email: 'john@example.com',
-    phone: '+91 9876543210',
+    name: 'Sanjeet Kumar',
+    email: 'Sanjcgc@gmail.com.com',
+    phone: '+91 7352239445',
     role: 'consumer',
-    location: 'Delhi, India',
+    location: 'Chandigarh, India',
     verified: true
   });
   const [language, setLanguage] = useState('en');
