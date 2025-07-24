@@ -56,7 +56,7 @@ const Dashboard: React.FC = () => {
       id: 3,
       type: 'review',
       title: 'New review received',
-      description: '5-star review for Fresh Mangoes from Amit Patil',
+      description: '5-star review for Fresh Banana from Amit Patil',
       time: '2 days ago',
       status: 'positive'
     }
