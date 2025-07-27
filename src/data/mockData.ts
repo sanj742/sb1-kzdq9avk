@@ -60,7 +60,7 @@ export const mockProducts: Product[] = [
     unit: 'kg',
     quantity: 1000,
     description: 'High-quality organic wheat flour, stone-ground for maximum nutrition.',
-    images: ['https://images.pexels.com/photos/459403/pexels-photo-459403.jpeg?auto=compress&cs=tinysrgb&w=800'],
+    images: ['https://cdn.pixabay.com/photo/2014/07/02/06/47/wheat-381848_960_720.jpg'],
     farmerId: 'farmer4',
     farmerName: 'Suresh Singh',
     location: 'Uttar Pradesh, India',
