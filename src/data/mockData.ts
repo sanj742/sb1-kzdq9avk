@@ -9,7 +9,7 @@ export const mockProducts: Product[] = [
     unit: 'kg',
     quantity: 500,
     description: 'Premium quality basmati rice, freshly harvested from organic farms in Punjab.',
-    images: ['https://images.pexels.com/photos/1586943/pexels-photo-1586943.jpeg?auto=compress&cs=tinysrgb&w=800'],
+    images: ['https://cdn.pixabay.com/photo/2017/08/25/05/30/in-rice-field-2679153_1280.jpg'],
     farmerId: 'farmer1',
     farmerName: 'Rajesh Kumar',
     location: 'Punjab, India',
