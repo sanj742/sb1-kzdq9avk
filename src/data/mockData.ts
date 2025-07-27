@@ -37,9 +37,9 @@ export const mockProducts: Product[] = [
   },
   {
     id: '3',
-    name: 'Fresh Mangoes',
+    name: 'Fresh Banana',
     category: 'Fruits',
-    price: 120,
+    price: 80,
     unit: 'dozen',
     quantity: 100,
     description: 'Sweet and succulent Alphonso mangoes, the king of fruits from Maharashtra.',
